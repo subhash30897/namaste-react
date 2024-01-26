@@ -55,3 +55,25 @@
 - cross site scripting
 - jsx takes care of injection attacks, sanitizes the code inside flower brackets.
 - Why we are writing the things we are writing.
+
+# Food Ordering App
+
+- Episode 04
+- How to build food ordering app.
+- planning - we should know what exactly we should build, process of building.
+- Inline style take js object in jsx.
+- props - dynamic way to pass data, args to function.
+- passing props to component.
+- props is an obj.
+- Config driven UI - System design interview. Controlling ui using data/Config.
+- UI layer & data layer.
+- Cloudinary is cdn.
+- Reusable components, able to pass dynamic props
+- Optional chaining - ?.
+- for looping we use js map fn
+- when ever we are looping we need to add key to the component.
+- why key? -> React optimizes render cycle, when components at same level they should have unique key. if we don't give key it will rerender all comps
+- will take performace hit if we don't give the key
+- React says don't use index as keys
+- Index as key is anti-pattern.
+- we should know deep concepts
