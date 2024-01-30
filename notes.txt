@@ -104,3 +104,11 @@
 - Seperate files for seperate components
 - src folder.
 - React file structure - https://legacy.reactjs.org/docs/faq-structure.html
+- Some people write the file extension as jsx
+- 2 ways to export the comp - export default component name.
+- optional to use the extension in import.
+- we shouldn't keep the hard coded data in component's file.
+- utilities used all across the app.
+- name with small letters for other files.
+- 2 types of exports - default & named.
+- If we want to export many things from a file we use named export.
